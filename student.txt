@@ -1,4 +1,4 @@
 Name : Sumaiya khosa
 Registration number : 70306
 Course : Software Engineering
-Lab : Git Fundamental
+Lab : Git FundamentalFavorite Programming Language: Python 
