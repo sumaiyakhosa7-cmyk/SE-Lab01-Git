@@ -1,1 +1,1 @@
-# SE-Lab01-Git
+# SE Git Lab Repositoryecho ## Student Informationecho - **Name:** Your Name Hereecho - **Roll Number:** Your Roll Number Hereecho.echo ## Topics Coveredecho - Gitecho - GitHubecho - Repositoryecho - Commitecho - Branchecho - Mergeecho - Pushecho - Pullecho - .gitignore
